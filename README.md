@@ -2,7 +2,7 @@
 
 ## About Me
 <p>
-I'm a recent Oregon State University graduate with a dual degree in Computer Science and Music Production from Oregon State University. I have a strong technical background in multiple areas of CS, including machine learning, data science, web development, and various other projects between several programming languages. In my free time I like to play video games, make beats, and create generative art through code!
+I'm a software engineer at Fireclay Tile. I have a strong technical background in multiple areas of CS, including machine learning, data science, web development, and various other projects between several programming languages. In my free time I like to play video games, make beats, hang out with my three cats, and create generative art through code!
 </p>
 
 ## Languages
